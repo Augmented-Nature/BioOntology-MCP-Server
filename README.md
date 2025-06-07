@@ -1,3 +1,4 @@
+![Logo](logo.png)
 # Unofficial BioOntology MCP Server
 
 A production-ready Model Context Protocol (MCP) server that provides comprehensive access to the BioOntology API for searching, annotating, and exploring over 1,200 biological ontologies.
