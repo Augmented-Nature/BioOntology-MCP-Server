@@ -215,9 +215,9 @@ MIT License - see LICENSE file for details.
 ## Citation
 If you use this project in your research or publications, please cite it as follows:
 
-@misc{yourproject2025,
+<pre><code>@misc{yourproject2025,
   author       = {Moudather Chelbi},
   title        = {Augmented Nature BioOntology MCP Server},
   year         = {2025},
   howpublished = {\url{https://github.com/Augmented-Nature/BioOntology-MCP-Server}},
-}
+}</code></pre>
