@@ -219,5 +219,5 @@ If you use this project in your research or publications, please cite it as foll
   author       = {Moudather Chelbi},
   title        = {Augmented Nature BioOntology MCP Server},
   year         = {2025},
-  howpublished = {\url{https://github.com/Augmented-Nature/BioOntology-MCP-Server}},
+  howpublished = {https://github.com/Augmented-Nature/BioOntology-MCP-Server},
 }</code></pre>
